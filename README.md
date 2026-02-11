@@ -1,74 +1,110 @@
-<p align="center">
-  <img src="https://streamix.cloud/wp-content/uploads/2026/02/Stream-Logo-001-4.png" width="180" alt="Streamix Logo">
-</p>
+<div align="center">
 
-<h1 align="center">Streamix</h1>
+<img src="https://streamix.cloud/wp-content/uploads/2026/02/Stream-Logo-001-4.png" width="220" alt="Streamix Logo" />
 
-<p align="center">
-  Internet Radio Directory & Player<br>
-  Built for Blizzard Broadcast Center
-</p>
+# Streamix
 
-<p align="center">
-  <a href="https://streamix.cloud">🌐 Website</a>
-  •
-  <a href="https://github.com/blizzardbroadcastcenter-cmd/streamix/releases/latest">⬇ Download</a>
-</p>
+### Professional Internet Radio Directory & Player  
+Built for Blizzard Broadcast Center
 
 ---
 
-## 📻 About
-
-Streamix is a professional desktop internet radio directory and streaming platform developed exclusively for the Blizzard Broadcast Center radio network.
-
-It delivers high-quality audio streaming with a clean, distraction-free interface.
+<a href="https://streamix.cloud">🌐 Official Website</a> &nbsp;|&nbsp;
+<a href="https://github.com/blizzardbroadcastcenter-cmd/streamix/releases/latest">⬇ Download</a> &nbsp;|&nbsp;
+<a href="mailto:Support@Streamix.Cloud">📧 Support</a>
 
 ---
 
-## 🚀 Features
+</div>
 
-- 🎧 Live internet radio streaming  
-- 📡 Integrated station directory  
-- ⚡ Lightweight desktop performance  
-- 🖥️ Windows desktop support  
-- 🧪 Beta testing program  
-- 🔄 Future auto-updates  
+<br>
+
+## 🚀 Overview
+
+Streamix is a professional desktop internet radio streaming platform designed for reliability, performance, and simplicity.  
+Built exclusively for the Blizzard Broadcast Center network, it delivers high-quality audio with a distraction-free experience.
+
+This beta release provides early access to core features and ongoing improvements.
+
+---
+
+## ✨ Core Features
+
+| Feature | Description |
+|---------|-------------|
+| 📻 Live Streaming | High-quality internet radio playback |
+| 📡 Station Directory | Browse integrated station listings |
+| ⚡ Performance | Lightweight and optimized |
+| 🖥 Desktop App | Native Windows support |
+| 🧪 Beta Program | Early testing access |
+| 🔄 Updates | Continuous improvements |
 
 ---
 
 ## 💻 System Requirements
 
 - Windows 10 or newer  
-- Internet connection  
-- Speakers or headphones  
+- Stable internet connection  
 - Minimum 2GB RAM  
+- Audio output device  
 
 ---
 
-## 📥 Download
+## 📥 Download & Installation
 
-👉 Get the latest version:
+### Get the Latest Version
 
-https://github.com/blizzardbroadcastcenter-cmd/streamix/releases/latest
+👉 https://github.com/blizzardbroadcastcenter-cmd/streamix/releases/latest
+
+### Install Steps
+
+1. Download the latest `.exe` file  
+2. Open the installer  
+3. Follow setup instructions  
+4. Launch Streamix  
 
 ---
 
-## ⚖️ License
+## 🧭 Roadmap
+
+Upcoming improvements include:
+
+- Auto-update system  
+- Station management tools  
+- User preferences  
+- Performance optimizations  
+- Expanded platform support  
+
+---
+
+## ⚖️ Legal & Licensing
 
 © 2026 Blizzard Broadcast Center. All Rights Reserved.
 
-Streamix is proprietary software developed for internal use within the Blizzard Broadcast Center radio network.
+Streamix is proprietary software licensed exclusively for use within the Blizzard Broadcast Center radio network.
 
-Unauthorized copying, distribution, or commercial use is prohibited.
+Unauthorized copying, redistribution, resale, modification, or commercial use is strictly prohibited.
 
 ---
 
 ## 📞 Support
 
-For internal support and feedback, contact the Streamix development team.
+For technical support, feedback, or feature requests:
+
+📧 **Support@Streamix.Cloud**
 
 ---
 
-<p align="center">
-  Built by Blizzard Broadcast Center
-</p>
+## 🏢 About Blizzard Broadcast Center
+
+Blizzard Broadcast Center operates professional radio and media networks delivering high-quality broadcasting and digital streaming solutions.
+
+Streamix serves as its official streaming platform.
+
+---
+
+<div align="center">
+
+### Built with dedication by Blizzard Broadcast Center
+
+</div>
