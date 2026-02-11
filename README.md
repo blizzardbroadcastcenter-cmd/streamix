@@ -1,33 +1,78 @@
-# Streamix
+<p align="center">
+  <img src="https://streamix.cloud/logo.png" width="180" alt="Streamix Logo">
+</p>
 
-Streamix is a free desktop internet radio player and directory that lets users discover and stream live stations worldwide.
+<h1 align="center">Streamix</h1>
 
-## Features
-- Live radio streaming
-- Easy station browsing
-- Clean, modern interface
-- Lightweight performance
-- Windows support
+<p align="center">
+  Internet Radio Directory & Player<br>
+  Built for Blizzard Broadcast Center
+</p>
 
-## Download
-Visit the Releases page to download the latest version:
-https://github.com/blizzardbroadcastcenter-cmd/streamix/releases
+<p align="center">
+  <a href="https://streamix.cloud">
+    🌐 Website
+  </a>
+  •
+  <a href="https://github.com/blizzardbroadcastcenter-cmd/streamix/releases/latest">
+    ⬇ Download
+  </a>
+</p>
 
-## System Requirements
+---
+
+## 📻 About
+
+Streamix is a professional desktop internet radio directory and streaming platform developed exclusively for the Blizzard Broadcast Center radio network.
+
+It delivers high-quality audio streaming with a clean, distraction-free interface.
+
+---
+
+## 🚀 Features
+
+- 🎧 Live internet radio streaming
+- 📡 Integrated station directory
+- ⚡ Lightweight desktop performance
+- 🖥️ Windows desktop support
+- 🔄 Future auto-updates
+- 🧪 Beta testing program
+
+---
+
+## 💻 System Requirements
+
 - Windows 10 or newer
 - Internet connection
 - Speakers or headphones
+- Minimum 2GB RAM
 
-## Installation
-1. Download the latest ZIP or EXE
-2. Extract the files (if needed)
-3. Run Streamix.exe
+---
 
-## Support
-For issues or suggestions, open an issue on GitHub.
+## 📥 Download
 
-## License
+👉 **Get the latest version here:**
+
+https://github.com/blizzardbroadcastcenter-cmd/streamix/releases/latest
+
+---
+
+## ⚖️ License
+
 © 2026 Blizzard Broadcast Center. All Rights Reserved.
 
-Streamix is proprietary software developed for internal use within the Blizzard Broadcast Center radio network. 
-Commercial use, redistribution, modification, or resale is strictly prohibited without written permission.
+Streamix is proprietary software developed for internal use within the Blizzard Broadcast Center radio network.
+
+Unauthorized copying, distribution, or commercial use is prohibited.
+
+---
+
+## 📞 Support
+
+For issues, feedback, or internal support, contact the Streamix development team.
+
+---
+
+<p align="center">
+  Built with ❤️ by Blizzard Broadcast Center
+</p>
