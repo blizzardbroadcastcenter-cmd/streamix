@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://streamix.cloud/logo.png" width="180" alt="Streamix Logo">
+  <img src="https://streamix.cloud/wp-content/uploads/2026/02/Stream-Logo-001-4.png" width="180" alt="Streamix Logo">
 </p>
 
 <h1 align="center">Streamix</h1>
@@ -10,13 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="https://streamix.cloud">
-    🌐 Website
-  </a>
+  <a href="https://streamix.cloud">🌐 Website</a>
   •
-  <a href="https://github.com/blizzardbroadcastcenter-cmd/streamix/releases/latest">
-    ⬇ Download
-  </a>
+  <a href="https://github.com/blizzardbroadcastcenter-cmd/streamix/releases/latest">⬇ Download</a>
 </p>
 
 ---
@@ -31,27 +27,27 @@ It delivers high-quality audio streaming with a clean, distraction-free interfac
 
 ## 🚀 Features
 
-- 🎧 Live internet radio streaming
-- 📡 Integrated station directory
-- ⚡ Lightweight desktop performance
-- 🖥️ Windows desktop support
-- 🔄 Future auto-updates
-- 🧪 Beta testing program
+- 🎧 Live internet radio streaming  
+- 📡 Integrated station directory  
+- ⚡ Lightweight desktop performance  
+- 🖥️ Windows desktop support  
+- 🧪 Beta testing program  
+- 🔄 Future auto-updates  
 
 ---
 
 ## 💻 System Requirements
 
-- Windows 10 or newer
-- Internet connection
-- Speakers or headphones
-- Minimum 2GB RAM
+- Windows 10 or newer  
+- Internet connection  
+- Speakers or headphones  
+- Minimum 2GB RAM  
 
 ---
 
 ## 📥 Download
 
-👉 **Get the latest version here:**
+👉 Get the latest version:
 
 https://github.com/blizzardbroadcastcenter-cmd/streamix/releases/latest
 
@@ -69,10 +65,10 @@ Unauthorized copying, distribution, or commercial use is prohibited.
 
 ## 📞 Support
 
-For issues, feedback, or internal support, contact the Streamix development team.
+For internal support and feedback, contact the Streamix development team.
 
 ---
 
 <p align="center">
-  Built with ❤️ by Blizzard Broadcast Center
+  Built by Blizzard Broadcast Center
 </p>
