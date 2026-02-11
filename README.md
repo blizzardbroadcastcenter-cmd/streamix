@@ -105,6 +105,6 @@ Streamix serves as its official streaming platform.
 
 <div align="center">
 
-### Built with dedication by Blizzard Broadcast Center
+### Built with ❤️ by Blizzard Broadcast Center
 
 </div>
