@@ -27,4 +27,7 @@ https://github.com/blizzardbroadcastcenter-cmd/streamix/releases
 For issues or suggestions, open an issue on GitHub.
 
 ## License
-Free for personal and community use.
+© 2026 Blizzard Broadcast Center. All Rights Reserved.
+
+Streamix is proprietary software developed for internal use within the Blizzard Broadcast Center radio network. 
+Commercial use, redistribution, modification, or resale is strictly prohibited without written permission.
